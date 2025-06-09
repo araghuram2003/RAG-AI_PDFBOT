@@ -1,0 +1,9 @@
+PyPDF2
+langchain
+langchain-huggingface
+langchain-groq
+faiss-cpu
+python-dotenv
+tqdm
+ipywidgets
+jupyter 
